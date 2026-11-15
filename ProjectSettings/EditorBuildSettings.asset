@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/start.unity
+    guid: a1ae2efd8ca9d0a41901eca2eb5bb4dd
+  - enabled: 1
+    path: Assets/city1.unity
+    guid: d7dec55f721ff334aa66a7b0915782ac
+  - enabled: 1
+    path: Assets/city2.unity
+    guid: c1ba01f206b7b7942a19de5a095f47a1
+  - enabled: 1
+    path: Assets/city3.unity
+    guid: 4990a005b3cd55f4ea16c42719d509de
+  - enabled: 1
+    path: Assets/city4.unity
+    guid: adf924eb15dd7bb47a6d492cd41b1a5d
+  - enabled: 1
+    path: Assets/city5.unity
+    guid: 936b9595824a26748854bad3b58c3d0a
+  - enabled: 1
+    path: Assets/japan1.unity
+    guid: 3fdd0d22883859a408ce8695f8ba186b
+  - enabled: 1
+    path: Assets/japan2.unity
+    guid: 61792f20433a626488c3314b0d200e9e
+  - enabled: 1
+    path: Assets/japan3.unity
+    guid: cf29d487ac74d7048bba1c20efffc08d
+  - enabled: 1
+    path: Assets/japan4.unity
+    guid: 2d891b079ba31be4dae767232e4fd1ff
+  - enabled: 1
+    path: Assets/forest1.unity
+    guid: e1bb5a86fa17c6b4da1404f5b8358c0a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
